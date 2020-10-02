@@ -2,7 +2,6 @@
 #include <pcap.h>
 #include <string.h>  // for memcpy
 #include <unistd.h>  // for sleep
-#include <stdio.h>
 #include <mac.h>
 
 using namespace std;
